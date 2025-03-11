@@ -8,7 +8,7 @@ Follow these steps to clone the repository and run the game:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/supritk21/tic-tac-toe-game.git
 cd YOUR_REPO_NAME
 ```
 
