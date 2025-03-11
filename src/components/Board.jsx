@@ -25,6 +25,7 @@ const Board = () => {
 
     const handleClick = (index) => {
        const copyState = [...state];
+       if(copyState[index] != null) return;
        copyState[index] = xIsNext ? 'X' : 'O';
        setState(copyState);
        setXIsNext(!xIsNext);
